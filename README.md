@@ -35,9 +35,9 @@ The bank is successfully generating leads but needs to understand exactly *where
 
 ---
 
-## 📂 Repository Structure
-* `data/raw/` - The original uncleaned campaign dataset.
-* `data/processed/` - The engineered dataset mapped for funnel tracking.
-* `Task3_Data_Prep.ipynb` - The Python script used for data cleaning and funnel engineering.
-* `Telemarketing_Funnel_Dashboard.pbix` - The final interactive Power BI dashboard.
-* `Telemarketing_Funnel_Report.pdf` - The final executive summary of findings.
+## Repository Structure
+* `bank-full.csv` - The original uncleaned campaign dataset.
+* `bank_funnel_clean` - The engineered dataset mapped for funnel tracking.
+* `telecoms funnel analysis.ipynb` - The Python script used for data cleaning and funnel engineering.
+* `telecoms funnel dashboard.pbix` - The final interactive Power BI dashboard.
+* `Telemarketing Funnel & Channel Performance Report.pdf` - The final executive summary of findings.
